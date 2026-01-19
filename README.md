@@ -8,7 +8,7 @@ Basically, the system tries to measure how close songs are in this feature space
 
 **Dataset Link:** [30,000 Spotify Songs on Kaggle](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs?select=spotify_songs.csv)
 
-## Limitations 🙃
+## Takeaways
 
     - Right now, you can only search by song name (no artist filter yet).
     - Its case-insensitive, so no worries about capital letters.
